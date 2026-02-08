@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
