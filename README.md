@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->
