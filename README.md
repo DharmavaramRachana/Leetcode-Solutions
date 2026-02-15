@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
