@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -234,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
