@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
