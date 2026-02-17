@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
