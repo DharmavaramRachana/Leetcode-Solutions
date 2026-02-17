@@ -2,27 +2,20 @@ class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
-
         """
-        k = k % len(nums) #If k > length of array, rotating by k is same as rotating by k % len(nums)Example: rotating by 10 in array of size 7 is same as rotating by 3.
-        l, r = 0, len(nums) - 1
+        n = len(nums)
 
-        while l < r :    # first reverse the array
-            nums[l] , nums[r] = nums[r], nums[l]
-            l,r = l + 1, r - 1
+        if n == 0:
+            return 
 
+        k = k % n
 
-        l, r = 0, k -1
-        while l < r : # bext reverse the first k elements
-            nums[l] , nums[r] = nums[r], nums[l]
-            l,r = l + 1, r - 1
+        def rev(l, r):
+            while l < r:
+                nums[l], nums[r] = nums[r], nums[l]
+                l += 1
+                r -= 1
 
-
-        l, r = k, len(nums) -1 
-        while l < r : # next remaining k elements
-            nums[l] , nums[r] = nums[r], nums[l]
-            l,r = l + 1, r - 1
-
-
-
-        
+        rev(0, n-1)
+        rev(0, k-1)
+        rev(k, n-1)
