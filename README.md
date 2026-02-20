@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 ## Counting
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
