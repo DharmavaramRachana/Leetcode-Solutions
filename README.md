@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -381,4 +383,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
