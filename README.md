@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
