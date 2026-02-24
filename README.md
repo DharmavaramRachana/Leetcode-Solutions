@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 ## Bit Manipulation
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
