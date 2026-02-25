@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0137-single-number-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
