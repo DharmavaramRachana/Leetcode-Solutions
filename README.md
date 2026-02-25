@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
@@ -113,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
