@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0394-decode-string) |
