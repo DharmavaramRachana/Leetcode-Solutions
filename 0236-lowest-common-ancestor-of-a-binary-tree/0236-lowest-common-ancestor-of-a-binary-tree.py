@@ -12,19 +12,17 @@ class Solution:
 
         def dfs(node):
             if not node:
-                return False
+                return 
 
-            
             left = dfs(node.left)
             right = dfs(node.right)
-            cur = node == p or node == q
+            cur = node == q or node == p
 
             if (left and right) or (cur and left) or (cur and right):
                 self.ans = node
-                return 
-
-            return left or right or cur
+                return True
+            return cur or left or right
 
         dfs(root)
         return self.ans
-        
+            
