@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Shortest Path
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
 | ------- |
@@ -635,5 +638,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
