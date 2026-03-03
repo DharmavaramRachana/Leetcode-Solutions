@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -644,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
