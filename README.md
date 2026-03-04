@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Memoization
