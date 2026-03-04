@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -493,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Eulerian Circuit
