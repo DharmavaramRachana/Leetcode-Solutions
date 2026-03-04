@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
