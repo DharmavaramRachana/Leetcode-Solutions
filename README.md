@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
