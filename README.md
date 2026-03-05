@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0401-binary-watch) |
 ## Counting Sort
