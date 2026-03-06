@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0274-h-index) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -726,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
