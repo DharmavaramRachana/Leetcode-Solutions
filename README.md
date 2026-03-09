@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
