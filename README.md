@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0148-sort-list) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0401-binary-watch) |
