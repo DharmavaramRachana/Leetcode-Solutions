@@ -11,3 +11,4 @@ class Solution:
             x //= 10
 
         return original == rev
+        
