@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
