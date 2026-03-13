@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0312-burst-balloons) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0443-string-compression) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
