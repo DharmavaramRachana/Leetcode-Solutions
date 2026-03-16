@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -873,4 +875,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
