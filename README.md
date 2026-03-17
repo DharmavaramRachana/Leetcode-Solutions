@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Database
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
