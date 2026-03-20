@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [1207-unique-number-of-occurrences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
