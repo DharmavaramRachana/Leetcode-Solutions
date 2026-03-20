@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Memoization
 |  |
 | ------- |
