@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0953-verifying-an-alien-dictionary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0953-verifying-an-alien-dictionary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1207-unique-number-of-occurrences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0953-verifying-an-alien-dictionary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
