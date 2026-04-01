@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2751-robot-collisions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2751-robot-collisions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Database
 |  |
 | ------- |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2751-robot-collisions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
 |  |
