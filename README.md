@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -997,4 +998,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
