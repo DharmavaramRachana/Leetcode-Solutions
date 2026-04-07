@@ -769,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [2069-walking-robot-simulation-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
