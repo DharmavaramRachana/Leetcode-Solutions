@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0752-open-the-lock](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
