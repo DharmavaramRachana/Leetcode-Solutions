@@ -5,19 +5,20 @@ class Solution:
 
         res = []
         p_count = [0] * 26
-        window_count = [0] * 26
+        window = [0] * 26
+
 
         for ch in p:
-            p_count[ord(ch)-ord("a")] += 1
+            p_count[ord(ch) - ord("a")] += 1
 
         for i in range(len(s)):
-            window_count[ord(s[i])-ord("a")] += 1
+            window[ord(s[i]) - ord("a")] += 1
 
             if i >= len(p):
-                window_count[ord(s[i-len(p)]) - ord("a")] -= 1
+                window[ord(s[i - len(p)]) - ord("a")] -= 1
 
-            if p_count == window_count:
-                res.append(i-len(p)+1)
+            if p_count == window:
+                res.append(i - len(p) + 1)
 
         return res
-            
+        
