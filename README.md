@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0752-open-the-lock) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Quickselect
@@ -1071,4 +1075,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
