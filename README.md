@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0427-construct-quad-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
+| [0542-01-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
