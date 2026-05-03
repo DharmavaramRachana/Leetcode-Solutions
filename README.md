@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
