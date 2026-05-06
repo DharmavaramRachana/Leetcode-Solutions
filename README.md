@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
