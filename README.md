@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
