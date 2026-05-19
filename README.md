@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2540-minimum-common-value](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2540-minimum-common-value](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
