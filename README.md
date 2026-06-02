@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0977-squares-of-a-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0977-squares-of-a-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1340-jump-game-v](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
