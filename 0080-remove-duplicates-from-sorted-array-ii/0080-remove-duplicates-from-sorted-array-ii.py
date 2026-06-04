@@ -3,15 +3,13 @@ class Solution:
         n = len(nums)
 
         if n <= 2:
-            return n
+            return n 
 
-        
         w = 2
 
-        for i in range(2, n):
+        for i in range(2, len(nums)):
             if nums[i] != nums[w-2]:
                 nums[w] = nums[i]
                 w += 1
 
         return w
-        
