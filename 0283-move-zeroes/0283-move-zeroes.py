@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+
         l = 0
 
         for r in range(len(nums)):
@@ -11,5 +12,4 @@ class Solution:
                 l += 1
 
         return nums
-
-            
+        
