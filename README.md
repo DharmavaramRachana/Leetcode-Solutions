@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1345-jump-game-iv](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
