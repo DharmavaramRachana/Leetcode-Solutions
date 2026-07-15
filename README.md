@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
