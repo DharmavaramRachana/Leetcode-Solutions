@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
