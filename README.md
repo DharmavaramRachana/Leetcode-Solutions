@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1539-kth-missing-positive-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1539-kth-missing-positive-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
