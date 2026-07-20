@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
