@@ -5,10 +5,10 @@ class Solution:
 
         for n in nums:
             if count == 0:
-                candidate  = n
+                candidate = n
                 count = 1
 
-            elif candidate == n:
+            elif candidate ==  n:
                 count += 1
 
             else:
