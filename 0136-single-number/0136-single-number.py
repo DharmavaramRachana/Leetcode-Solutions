@@ -1,8 +1,13 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        res = 0
+        freq = {}
 
-        for n in nums:
-            res = res ^ n
+        for num in nums:
+            freq[num] = 1 + freq.get(num, 0)
 
-        return res
+
+        for num, count in freq.items():
+            if count == 1:
+                return num
+
+        return -1
