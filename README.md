@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0100-same-tree) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -1121,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
