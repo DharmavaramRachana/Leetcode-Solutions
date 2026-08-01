@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -1364,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1388,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Monotonic Queue
@@ -1427,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [3161-block-placement-queries](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1440,5 +1446,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [3161-block-placement-queries](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
