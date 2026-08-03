@@ -1,15 +1,13 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         words = s.split()
+        l, r = 0, len(words) - 1
 
-        result = ""
+        while l <= r:
+            words[l], words[r] = words[r], words[l]
+            l += 1
+            r -= 1
 
-        for word in words:
-            if result:
-              result = word + " " + result
+        return " ".join(words)
 
-            else:
-                result = word
 
-        return result
-        
