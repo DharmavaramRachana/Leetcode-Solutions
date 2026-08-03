@@ -1,14 +1,21 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        cleaned = ""
+        l, r = 0, len(s) - 1
 
-        for char in s:
-            if char.isalnum():
-                cleaned += char.lower()
+        while l < r:
+            while l < r and not s[l].isalnum():
+                l += 1
 
-        reversed_string = cleaned[::-1]
+            while l < r and not s[r].isalnum():
+                r -= 1
 
-        return cleaned == reversed_string
+            if s[l].lower() != s[r].lower():
+                return False
+
+            l += 1
+            r -= 1
+
+        return True
 
             
         
