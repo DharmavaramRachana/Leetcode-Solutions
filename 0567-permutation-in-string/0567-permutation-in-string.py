@@ -3,16 +3,15 @@ class Solution:
         if len(s1) > len(s2):
             return False
 
-        s1_count = [0] * 26
-        window = [0] * 26
+        count, window = [0] * 26, [0] * 26
 
-        for ch in s1:
-            s1_count[ord(ch) - ord("a")] += 1
+        for char in s1:
+            count[ord(char) - ord("a")] += 1
 
         for i in range(len(s1)):
             window[ord(s2[i]) - ord("a")] += 1
 
-        if s1_count == window:
+        if count == window:
             return True
 
         for i in range(len(s1), len(s2)):
@@ -20,8 +19,7 @@ class Solution:
 
             window[ord(s2[i - len(s1)]) - ord("a")] -= 1
 
-            if s1_count == window:
+            if count == window:
                 return True
 
         return False
-        
