@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1452,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1475,4 +1479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
