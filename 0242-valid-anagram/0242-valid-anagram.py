@@ -3,5 +3,22 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        return sorted(s) == sorted(t)
+        count = {}
+
+        for char in s:
+            count[char] = 1 + count.get(char, 0)
+
+        for char in t:
+            if char not in count:
+                return False
+
+            count[char] -= 1
+
+            if count[char] < 0:
+                return False
+
+
+        return True
+
+
         
