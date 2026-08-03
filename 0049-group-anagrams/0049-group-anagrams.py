@@ -3,12 +3,7 @@ class Solution:
         groups = {}
 
         for s in strs:
-            count = [0] * 26
-
-            for c in s:
-                count[ord(c) - ord("a")] += 1
-
-            key = tuple(count)
+            key = "".join(sorted(s))
 
             if key not in groups:
                 groups[key] = []
@@ -16,4 +11,4 @@ class Solution:
             groups[key].append(s)
 
         return list(groups.values())
-        
+    
