@@ -1,8 +1,15 @@
 class Solution:
     def removeOccurrences(self, s: str, part: str) -> str:
-        while part in s:
-            index = s.find(part)
+        stack = []
 
-            s = s[:index] + s[index + len(part):]
+        part_length = len(part)
 
-        return s
+        for char in s:
+            stack.append(char)
+
+            if len(stack) >= part_length:
+                if "".join(stack[-part_length:]) == part:
+                    for _ in range(part_length):
+                        stack.pop()
+
+        return "".join(stack)
