@@ -1,7 +1,6 @@
 class Solution:
     def removeOccurrences(self, s: str, part: str) -> str:
         stack = []
-
         part_length = len(part)
 
         for char in s:
@@ -13,3 +12,4 @@ class Solution:
                         stack.pop()
 
         return "".join(stack)
+        
