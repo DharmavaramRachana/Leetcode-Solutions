@@ -8,18 +8,21 @@ class Solution:
         while i < n:
             current_char = chars[i]
             count = 0
-            while i < n and current_char == chars[i]:
-                i += 1
+
+            while i < n and chars[i] == current_char:
                 count += 1
+                i += 1
 
             chars[write] = current_char
             write += 1
 
             if count > 1:
-                count_str = str(count)
 
-                for digit in count_str:
+                chars_length = str(count)
+                for digit in chars_length:
                     chars[write] = digit
                     write += 1
 
         return write
+
+        
