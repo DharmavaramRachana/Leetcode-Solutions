@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -1168,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -1497,4 +1499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
