@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0784-letter-case-permutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
