@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2542-maximum-subsequence-score](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
