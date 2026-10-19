@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
@@ -1274,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
