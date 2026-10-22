@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Recursion
 |  |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Eulerian Circuit
@@ -1583,4 +1587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
