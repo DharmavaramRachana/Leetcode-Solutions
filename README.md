@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0965-univalued-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/DharmavaramRachana/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
